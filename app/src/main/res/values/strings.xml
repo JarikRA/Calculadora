@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="btn_ac">AC</string>
+    <string name="btn_zero">0</string>
+    <string name="btn_one">1</string>
+    <string name="btn_two">2</string>
+    <string name="btn_three">3</string>
+    <string name="btn_four">4</string>
+    <string name="btn_five">5</string>
+    <string name="btn_six">6</string>
+    <string name="btn_seven">7</string>
+    <string name="btn_eight">8</string>
+    <string name="btn_nine">9</string>
+    <string name="btn_point">.</string>
+    <string name="btn_delete">x</string>
+    <string name="btn_equals">=</string>
+    <string name="btn_add">+</string>
+    <string name="btn_sub">-</string>}
+    <string name="btn_mul">X</string>
+    <string name="btn_div">/</string>
+    <string name="btn_exit">Salir</string>
+    <string name="btn_open_parenthesis">(</string>
+    <string name="btn_close_parenthesis">)</string>
+</resources>
